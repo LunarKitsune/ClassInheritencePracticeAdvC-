@@ -1,0 +1,8 @@
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\bin\Debug\netstandard2.0\Person.deps.json
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\bin\Debug\netstandard2.0\Person.dll
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\bin\Debug\netstandard2.0\Person.pdb
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\obj\Debug\netstandard2.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\obj\Debug\netstandard2.0\Person.AssemblyInfoInputs.cache
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\obj\Debug\netstandard2.0\Person.AssemblyInfo.cs
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\obj\Debug\netstandard2.0\Person.dll
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Person\obj\Debug\netstandard2.0\Person.pdb

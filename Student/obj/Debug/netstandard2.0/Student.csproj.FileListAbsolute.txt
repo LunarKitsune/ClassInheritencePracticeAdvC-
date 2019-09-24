@@ -1,0 +1,11 @@
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\bin\Debug\netstandard2.0\Student.deps.json
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\bin\Debug\netstandard2.0\Student.dll
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\bin\Debug\netstandard2.0\Student.pdb
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\bin\Debug\netstandard2.0\Person.dll
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\bin\Debug\netstandard2.0\Person.pdb
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\obj\Debug\netstandard2.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\obj\Debug\netstandard2.0\Student.AssemblyInfoInputs.cache
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\obj\Debug\netstandard2.0\Student.AssemblyInfo.cs
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\obj\Debug\netstandard2.0\Student.csproj.CopyComplete
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\obj\Debug\netstandard2.0\Student.dll
+C:\Users\kmacneal\source\repos\WindowsFormsApp1\Student\obj\Debug\netstandard2.0\Student.pdb
